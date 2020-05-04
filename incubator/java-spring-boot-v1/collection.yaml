@@ -1,0 +1,5 @@
+default-image: java-spring-boot-v1
+default-pipeline: default
+images:
+- id: java-spring-boot-v1
+  image: $IMAGE_REGISTRY_ORG/java-spring-boot-v1:0.3
